@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ## 💻 About me
-- 🎓 Currently studing **Industrial Computer Science** in AGH University of Science and Technology
+- ### 🎓 Currently studing **Industrial Computer Science** in AGH University of Science and Technology
 
-- ☕ Developing **Java** programming skills
+- ### ☕ Developing **Java** programming skills
 
 - 🔭 Working as a backend dev is my dream
 
