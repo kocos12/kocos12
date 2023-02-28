@@ -41,6 +41,14 @@
 - [ ] **AI fundamentals**
 - [ ] **Deep learning in image analysis**
 
+## 📈 Github stats
+<div>
+</br>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&layout=compact&theme=tokyonight>
+</br>
+<!-- <img src=https://github-readme-stats.vercel.app/api?username=kocos12&theme=tokyonight> -->
+</div>
+
 ## 🔗 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wojcik.michal.2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-wojcik-linked-in)
