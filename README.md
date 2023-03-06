@@ -7,7 +7,7 @@
 
 - 🔭 Working as a backend dev is my dream
 
-- 🥁 Drummer and metal fan after hours
+- 🥁 Drummer and metalhead after hours
 
 - 🔨 Getting (sh)it done
 
