@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💻 About me
-- ### 🎓 Currently studing **Industrial Computer Science** in AGH University of Science and Technology
+- ### 🎓 Currently studing **Industrial Computer Science** at AGH University of Science and Technology
 
 - ### ☕ Developing **Java** programming skills
 
@@ -9,7 +9,7 @@
 
 - 🥁 Drummer and metalhead after hours
 
-- 🔨 Getting (sh)it done
+<!--- 🔨 Getting (sh)it done-->
 
 ## 🛠️ Skills
 
