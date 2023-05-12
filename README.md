@@ -1,11 +1,13 @@
 # Hi there 👋
 
 ## 💻 About me
-- ### 🎓 Currently studing **Industrial Computer Science** at AGH University of Science and Technology
+- ### 🎓 Currently studing Industrial Computer Science at AGH University of Science and Technology
 
-- ### ☕ Developing **Java** programming skills
+- ###  📝 Writing engineering thesis on deep learning
 
-- 🔭 Working as a backend dev is my dream
+- ☕ Developing **Java** programming skills
+
+<!-- - 🔭 Working as a backend dev is my dream -->
 
 - 🥁 Drummer and metalhead after hours
 
@@ -14,10 +16,17 @@
 ## 🛠️ Skills
 
 ### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+### Deep learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Framework&Libs
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -26,7 +35,6 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Containerization
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,13 +46,14 @@
 
 ## 🎯 2023 Goals
 - [ ] **DevOps 101**
-- [ ] **AI fundamentals**
+- [X] **AI fundamentals**
 - [ ] **Deep learning in image analysis**
+- [ ] **PyTorch Lightning**
 
 ## 📈 Github stats
 <div>
 </br>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&layout=compact&theme=tokyonight>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=4>
 </br>
 <!-- <img src=https://github-readme-stats.vercel.app/api?username=kocos12&theme=tokyonight> -->
 </div>
