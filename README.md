@@ -49,7 +49,8 @@
 ## 📈 Github stats
 <div>
 </br>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=4>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)>
+<!-- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=4> -->
 </br>
 <!-- <img src=https://github-readme-stats.vercel.app/api?username=kocos12&theme=tokyonight> -->
 </div>
