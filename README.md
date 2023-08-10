@@ -7,8 +7,6 @@
 
 - ☕ Developing **Java** programming skills
 
-<!-- - 🔭 Working as a backend dev is my dream -->
-
 - 🥁 Drummer and metalhead after hours
 
 <!--- 🔨 Getting (sh)it done-->
@@ -41,16 +39,16 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🎯 2023 Goals
-- [ ] **DevOps 101**
+- [X] **DevOps 101**
 - [X] **AI fundamentals**
-- [ ] **Deep learning in image analysis**
-- [ ] **PyTorch Lightning**
+- [X] **Deep learning in image analysis**
+- [ ] **Engineering project**
 
 ## 📈 Github stats
 <div>
 </br>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)>
-<!-- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=4> -->
+<!-- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)> -->
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=4>
 </br>
 <!-- <img src=https://github-readme-stats.vercel.app/api?username=kocos12&theme=tokyonight> -->
 </div>
