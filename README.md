@@ -42,7 +42,9 @@
 - [X] **DevOps 101**
 - [X] **AI fundamentals**
 - [X] **Deep learning in image analysis**
-- [ ] **Engineering project**
+- [X] **Engineering project**
+#### **2024 goals coming soon...**
+
 
 ## 📈 Github stats
 <div>
