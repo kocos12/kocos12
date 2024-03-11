@@ -3,7 +3,7 @@
 ## 💻 About me
 - ### 🎓 Currently studing Industrial Computer Science at AGH University of Science and Technology
 
-- ###  📝 Writing engineering thesis on deep learning
+<!-- - ###  📝 Writing engineering thesis on deep learning -->
 
 - ☕ Developing **Java** programming skills
 
@@ -38,13 +38,7 @@
 ### Platform as a Service
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🎯 2023 Goals
-- [X] **DevOps 101**
-- [X] **AI fundamentals**
-- [X] **Deep learning in image analysis**
-- [X] **Engineering project**
-#### **2024 goals coming soon...**
-
+## 🎯 **2024 goals coming soon...**
 
 ## 📈 Github stats
 <div>
