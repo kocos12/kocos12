@@ -3,7 +3,7 @@
 ## 💻 About me
 - ### 🎓 Graduate of Industrial Computer Science at AGH University of Science and Technology
 
-- ###  📝 Engineering and master thesis on deep learning -->
+- ###  📝 Engineering and master thesis on deep learning
 
 - ☕ Developing **Java** programming skills
 
