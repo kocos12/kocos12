@@ -1,11 +1,13 @@
-# Hi there 👋
+# Hello there 👋
 
 ## 💻 About me
-- ### 🎓 Currently studing Industrial Computer Science at AGH University of Science and Technology
+- ### 🎓 Graduate of Industrial Computer Science at AGH University of Science and Technology
 
-<!-- - ###  📝 Writing engineering thesis on deep learning -->
+- ###  📝 Engineering and master thesis on deep learning -->
 
 - ☕ Developing **Java** programming skills
+
+- 🔬 Deep-tech enthusiast
 
 - 🥁 Drummer and metalhead after hours
 
@@ -14,10 +16,10 @@
 ## 🛠️ Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
 
 ### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
