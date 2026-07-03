@@ -51,17 +51,10 @@ Turning research into reliable software.
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=kocos12&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kocos12&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img src="https://streak-stats.demolab.com?user=kocos12&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔗 Connect with me
