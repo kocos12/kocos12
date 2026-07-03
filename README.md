@@ -1,14 +1,6 @@
 # Hi, I'm Michał Wójcik 👋
 
 <p align="center">
-
-![](https://img.shields.io/badge/AI%20Systems-000000?style=for-the-badge)
-![](https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge)
-![](https://img.shields.io/badge/Java%20Backend-ED8B00?style=for-the-badge)
-
-</p>
-
-<p align="center">
 Building production-grade AI software for industrial applications.<br>
 Turning research into reliable software.
 </p>
@@ -62,7 +54,14 @@ Turning research into reliable software.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=kocos12&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kocos12&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ## 🔗 Connect with me
