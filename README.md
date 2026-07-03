@@ -1,10 +1,17 @@
 # Hi, I'm Michał Wójcik 👋
 
-Software Engineer passionate about **AI systems**, **Computer Vision**, and **Java backend development**.
+<p align="center">
 
-Currently building AI-powered software for industry while exploring the intersection of machine learning and real-world engineering.
+![](https://img.shields.io/badge/AI%20Systems-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge)
+![](https://img.shields.io/badge/Java%20Backend-ED8B00?style=for-the-badge)
 
----
+</p>
+
+<p align="center">
+Building production-grade AI software for industrial applications.<br>
+Turning research into reliable software.
+</p>
 
 ## 🚀 What I'm working on
 
@@ -14,16 +21,12 @@ Currently building AI-powered software for industry while exploring the intersec
 - 🏭 AI applications for manufacturing
 - 🐳 Cloud-native and containerized applications
 
----
-
 ## 🎓 Background
 
-- MSc in Industrial Computer Science
-- AGH University of Science and Technology
-- Engineering & Master's thesis focused on Deep Learning
-- Co-author of a scientific publication in computer vision
-
----
+- 🎓 MSc in Industrial Computer Science
+- 🏛️ AGH University of Science and Technology
+- 📖 Engineering & Master's thesis focused on Deep Learning
+- 📄 Co-author of a scientific publication in Computer Vision
 
 ## 🛠️ Tech Stack
 
@@ -56,23 +59,16 @@ Currently building AI-powered software for industry while exploring the intersec
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 ## 📈 GitHub Stats
 
-<div>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&hide_progress=true&layout=compact&theme=tokyonight&langs_count=6">
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocos12&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" alt="Top Languages"/>
+</p>
 
 ## 🔗 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wojcik.michal.2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-wojcik-linked-in)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kocos12)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-wojcik-linked-in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kocos12)
 
 > *Building software that brings AI into the real world.*
