@@ -1,6 +1,6 @@
 # Hi, I'm Michał Wójcik 👋
 
-<p align="center">
+<p>
 Building production-grade AI software for industrial applications.<br>
 Turning research into reliable software.
 </p>
@@ -10,8 +10,6 @@ Turning research into reliable software.
 - 🤖 AI-powered industrial vision systems
 - ☕ Java & Spring Boot backend development
 - 🧠 Deep Learning and Computer Vision
-- 🏭 AI applications for manufacturing
-- 🐳 Cloud-native and containerized applications
 
 ## 🎓 Background
 
@@ -50,12 +48,6 @@ Turning research into reliable software.
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kocos12&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## 🔗 Connect with me
 
